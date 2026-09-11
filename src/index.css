@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-slate-950 text-slate-50 antialiased;
+  }
+}
+
+.slide-content {
+  @apply w-full h-full flex flex-col p-8 md:p-16 max-w-6xl mx-auto;
+}
+
+.java-gradient-text {
+  @apply text-transparent bg-clip-text bg-gradient-to-r from-java-orange to-java-red;
+}

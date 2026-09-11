@@ -1,0 +1,8 @@
+{
+  "name": "Présentation des Structures de Données Java",
+  "description": "Une présentation professionnelle et éducative pour un cours de programmation Java sur les structures de données en Java.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
